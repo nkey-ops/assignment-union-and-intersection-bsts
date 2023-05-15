@@ -1,3 +1,12 @@
+Main class output:
+
+
+<img src="https://github.com/nkey-ops/assignment-union-and-intersection-bsts/assets/81760194/8398f06f-e2c1-4a40-b918-9bc5d5404919" width="350">
+
+
+
+
+
 Union and intersection of two Binary Search Trees (BST).
 Create two binary search trees (BST) which store various Books in nodes. Each book object has unique id
 and title. Use id of book as a key.
